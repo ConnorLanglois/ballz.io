@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 ```
-GameLib
+game-lib
 ```
 
 ### Installing
@@ -20,9 +20,9 @@ Clone the repo.
 
 Open the index html file:
 
-```
-ballzio.html
-```
+	```
+	src/ballzio.html
+	```
 
 ## Deployment
 
