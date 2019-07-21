@@ -20,9 +20,9 @@ Clone the repo.
 
 Open the index html file:
 
-	```
-	src/ballzio.html
-	```
+```
+src/ballzio.html
+```
 
 ## Deployment
 
